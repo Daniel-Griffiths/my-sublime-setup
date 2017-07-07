@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_panel_on_build": "false",
+	"theme": "itg.flat.dark.sublime-theme",
+	"word_wrap": "false"
+}

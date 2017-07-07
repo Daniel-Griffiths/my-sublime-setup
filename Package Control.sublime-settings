@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"DocBlockr",
+		"Emmet",
+		"Laravel 5 Artisan",
+		"Laravel Blade Highlighter",
+		"Markdown Preview",
+		"Package Control",
+		"Stylus",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"SummitLinter",
+		"Terminal",
+		"Theme - itg.flat",
+		"Xdebug Client"
+	]
+}
