@@ -5,11 +5,13 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"DocBlockr",
 		"Emmet",
 		"Laravel 5 Artisan",
 		"Laravel Blade Highlighter",
 		"Markdown Preview",
+		"Material Theme",
 		"Package Control",
 		"Stylus",
 		"SublimeGit",

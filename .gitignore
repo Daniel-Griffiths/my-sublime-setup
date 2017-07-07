@@ -1,3 +1,13 @@
-!.gitignore
-!Preferences.sublime-settings
-!Package Control.sublime-settings
+/.SublimeREPLHistory
+/builds
+/Package Control.cache
+/SublimeLinter
+/vendor
+composer.json
+composer.lock
+Default (Windows).sublime-keymap
+oscrypto-ca-bundle.crt
+Package Control.last-run
+Package Control.merged-ca-bundle
+Package Control.user-ca-bundle
+Xdebug.log
